@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "762659168796",
+    "firebase_url": "https://blogapp-84ba5.firebaseio.com",
+    "project_id": "blogapp-84ba5",
+    "storage_bucket": "blogapp-84ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762659168796:android:ae3f8ff7f365ba18",
+        "android_client_info": {
+          "package_name": "com.example.damia.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762659168796-d0c398vj8d0iu72srrnfsb4g2nq9mfk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwoKWGgnjdrzM0uUQnAMKfomdkMHLoOes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
